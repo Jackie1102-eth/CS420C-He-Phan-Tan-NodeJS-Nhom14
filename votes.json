@@ -1,0 +1,33 @@
+{
+  "candidates": [
+    {
+      "id": "nodejs",
+      "name": "Node.js",
+      "ticker": "NODE",
+      "tag": "Runtime hướng sự kiện, Non-blocking I/O",
+      "votes": 0,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "golang",
+      "name": "Golang",
+      "ticker": "GOLANG",
+      "tag": "Ngôn ngữ biên dịch, xử lý đồng thời cao",
+      "votes": 0,
+      "color": "#10b981"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "ticker": "PYTHON",
+      "tag": "Hệ sinh thái trí tuệ nhân tạo và dữ liệu",
+      "votes": 0,
+      "color": "#8b5cf6"
+    }
+  ],
+  "history": [],
+  "loadBalance": {
+    "NODE-1": 0,
+    "NODE-2": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "cs420-distributed-voting-system",
+  "version": "1.0.0",
+  "description": "Distributed Voting System with Node.js, Load Balancing and Fault Tolerance",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
